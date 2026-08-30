@@ -4,6 +4,8 @@ A console-based CGPA Calculator built in C++ . It calculates semester-wise GPA a
 ## Live Demo
 Try it online without installing anything: 
  https://shamaim-dev.github.io/CGPA-Calculator/
+## Source Code:
+https://github.com/Shamaim-dev/CGPA-Calculator.git
 ## Features
 - Supports multiple semesters in a single run
 - Takes course grades (letter grades) and credit hours as input
